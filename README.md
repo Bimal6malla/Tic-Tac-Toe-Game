@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game
-It is simple tic tac toe game .
+It is a simple tic tac toe game .
